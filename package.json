@@ -1,5 +1,5 @@
 {
-  "name": "@imsagorahmmed/javascript-chat-widget",
+  "name": "javascript-chat-widget-sagor",
   "version": "0.0.3",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,9 +13,15 @@
     "build": "tsup src/index.ts --dts"
   },
   "keywords": [
+    "javascript",
     "chat",
     "widget",
-    "javascript"
+    "chat-widget",
+    "javascript-chat-widget",
+    "messenger",
+    "support-chat",
+    "customer-chat",
+    "sagor"
   ],
   "author": "Md Sagor Ahmmed",
   "license": "ISC",
