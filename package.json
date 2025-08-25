@@ -1,0 +1,23 @@
+{
+  "name": "javascript-chat-widget",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://imsagorahmed.github.io/about-me/",
+  "scripts": {
+    "build": "tsup src/index.ts --dts"
+  },
+  "keywords": [
+    "chat",
+    "widget",
+    "javascript"
+  ],
+  "author": "Md Sagor Ahmmed",
+  "license": "ISC",
+  "description": "A JavaScript chat widget",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

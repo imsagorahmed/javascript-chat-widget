@@ -1,0 +1,10 @@
+/dist
+/node-modules
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.vscode
+.idea
+coverage  
