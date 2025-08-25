@@ -5,6 +5,10 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://imsagorahmed.github.io/about-me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imsagorahmed/javascript-chat-widget.git"
+  },
   "scripts": {
     "build": "tsup src/index.ts --dts"
   },
