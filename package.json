@@ -1,6 +1,6 @@
 {
-  "name": "javascript-chat-widget",
-  "version": "0.0.1",
+  "name": "@imsagorahmmed/javascript-chat-widget",
+  "version": "0.0.3",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
