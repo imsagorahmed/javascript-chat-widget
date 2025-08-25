@@ -1,4 +1,4 @@
 import { UserPropsType } from './types';
-export function sayHello({firstName, lastName, age}: UserPropsType) {
-    console.log(`Hello, ${firstName} ${lastName}. You are ${age} years old.`);
+export function sayHello({firstName}: UserPropsType) {
+    console.log(`Hello, ${firstName}.`);
 }
